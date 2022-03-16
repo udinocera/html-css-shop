@@ -17,8 +17,8 @@ div.sopra{
         position: absolute;
   top: 0;
   left: 80px;
-  width: auto;
-  height: auto;
+  width: 320px;
+  height: 380px;
   
  
  }
@@ -27,16 +27,16 @@ div.sopra{
         position: absolute;
         top: 0;
         left: 417px;
-        width: auto;
-        height: auto;
+        width: 320px;
+        height: 380px;
          }
 
     .Cuffia-1 {
         position: absolute;
         top: 0;
-        right: 50px;
-        width: auto;
-        height: auto;
+        right: 30px;
+        width: 320px;
+        height: 380px;
         }
 
         div.sotto{
@@ -54,30 +54,30 @@ div.sopra{
                 position: absolute;
           top: 0;
           left: 80px;
-          width: auto;
-          height: auto;
+          width: 320px;
+          height: 380px;
           }
         
             .Cellulare-2 {
                 position: absolute;
                 top: 0;
                 left: 417px;
-                width: auto;
-                height: auto;
+                width: 320px;
+                height: 380px;
              }
         
             .Cuffia-2 {
                 position: absolute;
                 top: 0;
-                right: 50px;
-                width: auto;
-                height: auto;
+                right: 30px;
+                width: 320px;
+                height: 380px;
             }
 
         .percentuali-1{
             position: absolute;
             top: 0;
-            left:293px;
+            left:310px;
             width: 50px;
             height: 25px;
             border-radius: 5%;
@@ -94,7 +94,7 @@ div.sopra{
         .percentuali-2{
             position: absolute;
             top: 0%;
-            left: 630px;
+            left: 650px;
             width: 50px;
             height: 25px;
             border-radius: 5%;
@@ -110,7 +110,7 @@ div.sopra{
 
         .percentuali-3{
             position: absolute;
-            right: 50px;
+            right: 30px;
             top: 0%;
             width: 50px;
             height: 25px;
@@ -124,3 +124,7 @@ div.sopra{
             color: black;
             text-decoration: solid;
         }
+
+        
+
+
