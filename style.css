@@ -1,19 +1,15 @@
- body{
-     border-left: 5cm;
- }
- 
- div.sopra{
+
+
+
+div.sopra{
     margin-top: 50px;
     margin-left: 200px;
     margin-right: 200px;
     margin-bottom: 50px;
     position: relative;
    background: white;
-   
-   padding: 5cm;
-   
-   
-  }
+   padding: 180px;
+}
     
     
     
@@ -33,10 +29,7 @@
         left: 417px;
         width: auto;
         height: auto;
-        
-       
-      
-        }
+         }
 
     .Cuffia-1 {
         position: absolute;
@@ -44,8 +37,6 @@
         right: 50px;
         width: auto;
         height: auto;
-        
-      
         }
 
         div.sotto{
@@ -54,12 +45,8 @@
             margin-right: 200px;
             margin-bottom: 50px;
             position: relative;
-           background: white
-           
-           padding: 5cm;
-           
-           
-          }
+           background: white;
+            }
             
             
             
@@ -69,9 +56,7 @@
           left: 80px;
           width: auto;
           height: auto;
-          
-         
-         }
+          }
         
             .Cellulare-2 {
                 position: absolute;
@@ -79,10 +64,7 @@
                 left: 417px;
                 width: auto;
                 height: auto;
-                
-               
-              
-                }
+             }
         
             .Cuffia-2 {
                 position: absolute;
@@ -90,9 +72,7 @@
                 right: 50px;
                 width: auto;
                 height: auto;
-                
-              
-        }
+            }
 
         .percentuali-1{
             position: absolute;
