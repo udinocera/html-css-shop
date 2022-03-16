@@ -1,0 +1,146 @@
+ body{
+     border-left: 5cm;
+ }
+ 
+ div.sopra{
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 50px;
+    position: relative;
+   background: white;
+   
+   padding: 5cm;
+   
+   
+  }
+    
+    
+    
+    .Tablet-1 {
+        position: absolute;
+  top: 0;
+  left: 80px;
+  width: auto;
+  height: auto;
+  
+ 
+ }
+
+    .Cellulare-1 {
+        position: absolute;
+        top: 0;
+        left: 417px;
+        width: auto;
+        height: auto;
+        
+       
+      
+        }
+
+    .Cuffia-1 {
+        position: absolute;
+        top: 0;
+        right: 50px;
+        width: auto;
+        height: auto;
+        
+      
+        }
+
+        div.sotto{
+            margin-top: 50px;
+            margin-left: 200px;
+            margin-right: 200px;
+            margin-bottom: 50px;
+            position: relative;
+           background: white
+           
+           padding: 5cm;
+           
+           
+          }
+            
+            
+            
+            .Tablet-2 {
+                position: absolute;
+          top: 0;
+          left: 80px;
+          width: auto;
+          height: auto;
+          
+         
+         }
+        
+            .Cellulare-2 {
+                position: absolute;
+                top: 0;
+                left: 417px;
+                width: auto;
+                height: auto;
+                
+               
+              
+                }
+        
+            .Cuffia-2 {
+                position: absolute;
+                top: 0;
+                right: 50px;
+                width: auto;
+                height: auto;
+                
+              
+        }
+
+        .percentuali-1{
+            position: absolute;
+            top: 0;
+            left:293px;
+            width: 50px;
+            height: 25px;
+            border-radius: 5%;
+            background-color:green;
+            color: white;
+            margin-left: 1cm;
+            text-align: center;
+            vertical-align: middle;
+            font-size: large;
+            color: black;
+            text-decoration: solid;
+        }
+
+        .percentuali-2{
+            position: absolute;
+            top: 0%;
+            left: 630px;
+            width: 50px;
+            height: 25px;
+            border-radius: 5%;
+            background-color:red;
+            color: white;
+            margin-left: 1cm;
+            text-align: center;
+            vertical-align: middle;
+            font-size: large;
+            color: black;
+            text-decoration: solid;
+        }
+
+        .percentuali-3{
+            position: absolute;
+            right: 50px;
+            top: 0%;
+            width: 50px;
+            height: 25px;
+            border-radius: 5%;
+            background-color:green;
+            color: white;
+            margin-left: 1cm;
+            text-align: center;
+            vertical-align: middle;
+            font-size: large;
+            color: black;
+            text-decoration: solid;
+        }
