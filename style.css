@@ -2,11 +2,10 @@
 
 
 div.sopra{
-    margin-top: 50px;
-    margin-left: 200px;
-    margin-right: 200px;
-    margin-bottom: 50px;
+   margin-left: auto;
+   margin-right: auto;
     position: relative;
+    width: 80%;
    background: white;
    padding: 180px;
 }
@@ -16,9 +15,10 @@ div.sopra{
     .Tablet-1 {
         position: absolute;
   top: 0;
-  left: 80px;
+  left: 280px;
   width: 320px;
   height: 380px;
+  display: inline-block;
   
  
  }
@@ -26,26 +26,28 @@ div.sopra{
     .Cellulare-1 {
         position: absolute;
         top: 0;
-        left: 417px;
+        left: 610px;
         width: 320px;
         height: 380px;
+        display: inline-block;
          }
 
     .Cuffia-1 {
         position: absolute;
         top: 0;
-        right: 30px;
+        right: 300px;
         width: 320px;
         height: 380px;
+        display: inline-block;
         }
 
         div.sotto{
-            margin-top: 50px;
-            margin-left: 200px;
-            margin-right: 200px;
-            margin-bottom: 50px;
-            position: relative;
-           background: white;
+            margin-left: auto;
+            margin-right: auto;
+             position: relative;
+             width: 80%;
+            background: white;
+            padding: 180px;
             }
             
             
@@ -53,31 +55,34 @@ div.sopra{
             .Tablet-2 {
                 position: absolute;
           top: 0;
-          left: 80px;
+          left: 280px;
           width: 320px;
           height: 380px;
+          display: inline-block;
           }
         
             .Cellulare-2 {
                 position: absolute;
                 top: 0;
-                left: 417px;
+                left: 610px;
                 width: 320px;
                 height: 380px;
+                display: inline-block;
              }
         
             .Cuffia-2 {
                 position: absolute;
                 top: 0;
-                right: 30px;
+                right:300px;
                 width: 320px;
                 height: 380px;
+                display: inline-block;
             }
 
         .percentuali-1{
             position: absolute;
             top: 0;
-            left:310px;
+            left:510px;
             width: 50px;
             height: 25px;
             border-radius: 5%;
@@ -94,7 +99,7 @@ div.sopra{
         .percentuali-2{
             position: absolute;
             top: 0%;
-            left: 650px;
+            left: 840px;
             width: 50px;
             height: 25px;
             border-radius: 5%;
@@ -110,7 +115,7 @@ div.sopra{
 
         .percentuali-3{
             position: absolute;
-            right: 30px;
+            right: 300px;
             top: 0%;
             width: 50px;
             height: 25px;
